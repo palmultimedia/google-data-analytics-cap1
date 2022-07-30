@@ -29,7 +29,7 @@ Data collected on csv file on every month. April 2020 to March 2021 twelve month
 There are some typical issues with data in each file such as blank, duplicate data etc.
 
 ### Process
-Tools used in this process is Microsoft Excel, R Studio and Tableau. 
+Tools used in this process is Microsoft Excel and R Studio. 
 All csv file convered into excel formate(.xlsx) and saved in separate folder so that all calculated fields remain saved in excel file.  
 Started with cleaning data in each file, removing missing value rows, removing duplicate data by “rider_id” attribute and removing short or large ride duration data.
 
